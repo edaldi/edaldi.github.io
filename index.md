@@ -1,7 +1,7 @@
 <html>
  <head>
 <link type="text/css" rel="stylesheet" href="https://www.dropbox.com/s/trsldt0me90jzs8/resume.css"/>
-<title></title> 
+<title>My CV</title> 
 </head>
 <body>
 <div id="header">
