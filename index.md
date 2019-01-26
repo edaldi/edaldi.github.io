@@ -5,8 +5,8 @@
 </head>
 <body>
 <div id="header">
-<p id="name">Deep Laxman Sukhwani</p>
-         <a href="mailto:deepsukhwani@gmail.com" target="_blank"><p id="email">deepsukhwani@gmail.com</p></a>
+<p id="name">Edli Aliadi Herda</p>
+         <a href="mailto:edlialiadiherda@gmail.com" target="_blank"><p id="email">edlialiadiherda@gmail.com</p></a>
      </div>
      <div class="left">
      </div>
